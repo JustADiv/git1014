@@ -4,4 +4,4 @@ cccccddd
 暂存区？？？
 git tracks changes aa.
 creating aaaaacc
-Creating a new branch is quick & simple.
+Creating a new branch is quick and simple
